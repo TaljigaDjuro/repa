@@ -7,5 +7,6 @@ int main()
  	printf("2\n");
 	printf("Guess who's back.\n");
 	printf("This is getting ridiculous.\n");
+	printf("Staged change\n");
 	return 0;
 }
